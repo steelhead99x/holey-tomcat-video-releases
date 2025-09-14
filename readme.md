@@ -44,5 +44,3 @@ This project draws inspiration from the song *"We Shall Overcome"*, learned on a
 - **Court Decision**: A New York federal court ruled that the first verse lacked sufficient originality and belonged to the public domain.
 - **Publisher’s Response**: Copyright holders waived their right to appeal, dedicating the song to the public domain.
 
-
-   git clone [repository-url]
