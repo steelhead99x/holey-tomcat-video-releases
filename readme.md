@@ -1,6 +1,6 @@
 ## Project Overview
 
-This project showcases a modern streaming platform built with a robust tech stack, designed to deliver seamless video and audio experiences. It’s a celebration of creativity, resilience, and the power of technology to create positive outcomes when guided by passionate individuals.
+This project showcases a modern streaming platform built with a minimal tech stack, designed to deliver seamless video and audio experiences. It’s a celebration of creativity, resilience, and the power of technology to create positive outcomes when guided by passionate individuals.
 
 Check out my friend Holey Tomcat and his new streaming platform!  
 [Holey Tomcat's Streaming Platform](https://www.streamingportfolio.com/tomcat)
@@ -46,6 +46,9 @@ Check out my friend Holey Tomcat and his new streaming platform!
 **Song Music:** "We Shall Overcome" sang by Pete Seeger
 
 **Location:** A remote ranch in California
+
+**Breeder:** Tomcat Chex • Amazing Grace Ranch
+
 
 
 
