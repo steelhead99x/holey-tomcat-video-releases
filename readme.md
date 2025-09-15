@@ -3,9 +3,7 @@
 This project showcases a modern streaming platform built with a robust tech stack, designed to deliver seamless video and audio experiences. It’s a celebration of creativity, resilience, and the power of technology to create positive outcomes when guided by passionate individuals.
 
 Check out my friend Holey Tomcat and his new streaming platform!  
-[Insert Link Here]
-
-## Technology Stack
+[Holey Tomcat's Streaming Platform](https://www.streamingportfolio.com/tomcat)
 
 ### Video Delivery and Players
 - **Mux**: A powerful video streaming and delivery platform for high-quality playback and analytics.
