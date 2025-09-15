@@ -22,9 +22,6 @@ Check out my friend Holey Tomcat and his new streaming platform!
 ### Development Environment
 - **JetBrains AI with Ollama**: AI-powered coding assistance for efficient development workflows.
 
-### Infrastructure
-- **Solar Setup**: Victron Hardware paired with recycled solar panels for sustainable energy.
-
 ## Credits
 
 **Video Delivery:** Mux Platform
