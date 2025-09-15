@@ -6,24 +6,46 @@ Check out my friend Holey Tomcat and his new streaming platform!
 [Holey Tomcat's Streaming Platform](https://www.streamingportfolio.com/tomcat)
 
 ### Video Delivery and Players
-- **Mux**: A powerful video streaming and delivery platform for high-quality playback and analytics.
+- **Mux Platform**: A powerful video streaming and delivery platform for high-quality playback and analytics.
 
 ### Video/Audio AI Stack
-- **Distorch2 with ComfyUI-MultiGPU Plugin**: Advanced AI tools for video and audio processing, optimized for multi-GPU environments.
-- **Wan2.2 S2V**: Cutting-edge speech-to-video technology for enhanced content creation.
+- **Distorch2 with ComfyUI-MultiGPU**: Advanced AI tools for video and audio processing, optimized for multi-GPU environments.
+- **Wan 2.2 IA2V model**: Cutting-edge AI technology for enhanced content creation.
 
 ### Video Editing
-- **OpenShot/Shotcut**: Open-source video editing software for professional-grade post-production.
+- **Human with Shotcut**: Professional video editing using open-source software for post-production.
 
 ### Hardware
-- **Alienware 16x**: 64GB RAM, NVIDIA 5070 8GB, Intel 9 processor.
-- **HomeBuilt PC**: Ryzen 9, 128GB GDDR4, NVIDIA 5060 TI 16GB, and 5070 12GB for high-performance computing.
+- **Intel 9 Laptop**: 64GB DDR5, RTX 5070 8GB
+- **Custom Tower**: Ryzen 9, 128GB DDR4, RTX 5060 Ti 16GB, RTX 5070 12GB for high-performance computing.
 
 ### Development Environment
-- **JetBrains AI Assistant with Local Ollama**: AI-powered coding assistance for efficient development workflows.
+- **JetBrains AI with Ollama**: AI-powered coding assistance for efficient development workflows.
 
 ### Infrastructure
-- **Solar Setup**: Victron Power Equipment paired with used solar panels sourced from Craigslist for sustainable energy.
+- **Solar Setup**: Victron Hardware paired with recycled solar panels for sustainable energy.
+
+## Credits
+
+**Video Delivery:** Mux Platform
+
+**Video AI Stack:** Distorch2 w/ ComfyUI-MultiGPU • Wan 2.2 IA2V model
+
+**Video Editor:** Human with Shotcut
+
+**Hardware:**
+- Intel 9 • Laptop • 64GB DDR5 • RTX 5070 8GB
+- Custom Tower • Ryzen 9 • 128GB DDR4 • RTX 5060 Ti 16GB • RTX 5070 12GB
+
+**Development Tool:** JetBrains AI w/ Ollama
+
+**Solar:** Victron Hardware & Recycled Solar Panels
+
+**Intro Music:** Ace Step models for Music Generation
+
+**Song Music:** "We Shall Overcome" sang by Pete Seeger
+
+**Location:** A remote ranch in California
 
 
 
